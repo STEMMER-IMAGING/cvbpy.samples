@@ -1,0 +1,23 @@
+{
+    "ID" : "CVMockTL.cti",
+    "Interfaces" : [
+        {
+            "ID" : "MyInterface0", 
+            "Devices" : [
+                {
+                    "ID" : "MyDevice0",
+                    "SerialNumber" : "12345",
+                    "UserName" : "Olaf",
+                    "Model" : "Mock Camera (Default)",
+                    "Version" : "1.0",  
+                    "Streams" : [
+                    {
+                        "ID" : "MyStream0",
+                        "ImageDirectoryPath" : "Q:\\git\\Sandbox\\mocktltest\\config\\CVMockTL.json"
+                    }
+                    ]
+                }
+            ]
+        }
+    ]    
+  }
