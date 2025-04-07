@@ -13,7 +13,7 @@
                     "Streams" : [
                     {
                         "ID" : "MyStream0",
-                        "ImageDirectoryPath" : "Q:\\git\\Sandbox\\mocktltest\\config\\CVMockTL.json"
+                        "ImageDirectoryPath" : "/workspaces/cvbpy.samples/image"
                     }
                     ]
                 }
