@@ -13,7 +13,7 @@
                     "Streams" : [
                     {
                         "ID" : "MyStream0",
-                        "ImageDirectoryPath" : "/workspaces/cvbpy.samples/image"
+                        "ImageDirectoryPath" : "/mnt/q/git/Sandbox/cvbpy.samples/image/"
                     }
                     ]
                 }
