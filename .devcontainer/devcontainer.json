@@ -1,6 +1,6 @@
 {
   "name": "My Dev Environment",
-  "image": "ghcr.io/stemmer-imaging/cvb:14.01.005",
+  "image": "ghcr.io/stemmer-imaging/cvb:14.01.006",
   "customizations": {
     "vscode": {
       "extensions": ["ms-python.python"]
